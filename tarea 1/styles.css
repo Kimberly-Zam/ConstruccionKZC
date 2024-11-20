@@ -1,4 +1,4 @@
-/* Basic Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ body {
     text-align: justify;
 }
 
-/* Header Styling */
+
 header {
     display: flex;
     justify-content: space-between;
